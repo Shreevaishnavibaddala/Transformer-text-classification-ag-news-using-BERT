@@ -12,7 +12,8 @@ This project implements a transformer model for text classification using the AG
 
 ---
 
-## Dataset  
+## Dataset
+-The dataset can be accessed from this link: https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset
 - **Source:** AG News dataset  
 - **Categories:**  
   - World  
